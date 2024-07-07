@@ -12,6 +12,4 @@ What you can expect from botCrafts:
 4. Crypto Insights: Explore the world of crypto trading bots and how to automate your trading strategies.
 5. Developer Tips: Get valuable advice and best practices to improve your coding skills.
 
-Subscribe to botCrafts and join our growing community of tech enthusiasts, developers, and automation lovers. Hit the bell icon to stay updated with our latest videos and never miss out on the fun and learning!
-
 Let's craft some awesome bots together! 🤖✨
